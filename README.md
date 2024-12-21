@@ -1,7 +1,7 @@
 Snakes and Ladders Game<br>
 A C-based implementation of the classic board game Snakes and Ladders, complete with colorful visuals, animations, and an interactive gameplay experience for two players.
 <br>
-Features<br>
+Features<br><br>
 Interactive Gameplay: Two-player mode with alternating turns.<br>
 Dynamic Dice Roll Animation: Simulated dice rolling with animated output.<br>
 Colorful Game Board: Vibrant and visually appealing terminal-based board design.<br>
@@ -9,7 +9,7 @@ Custom Rules:
 Climb ladders to advance positions.<br>
 Slide down snakes when landed on.<br>
 Roll a six for an extra turn.<br>
-First player to reach position 100 wins!
+First player to reach position 100 wins! <br> <br>
 How to Play
 Run the program in a C compiler on Windows (requires conio.h and windows.h).<br>
 Choose from the main menu:
@@ -34,7 +34,7 @@ Players take turns rolling the dice.<br>
 If a player lands at the bottom of a ladder, they climb to the top.<br>
 Landing on a snake's head will slide the player to the tail.<br>
 Rolling a six grants an extra turn.<br>
-A player must roll a six to start moving from the starting position.
+A player must roll a six to start moving from the starting position.<br><br>
 Contributors
 T Ram Sai (124CS0037)<br>
 Ayush Gatla (124CS0038)<br>
@@ -45,7 +45,7 @@ Dice Rolling Animation<br>
 Colorful Game Board<br>
 Winner Announcement<br>
 (Consider adding images or GIFs of gameplay here.)
-
+<br><br>
 How to Run
 Clone this repository.<br>
 bash

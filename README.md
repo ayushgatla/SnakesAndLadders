@@ -64,7 +64,7 @@ _(Consider adding images or GIFs of gameplay here.)_
 ## 🚀 How to Run
 
 1. Clone this repository:
-   ```bash
-  git clone https://github.com/ayushgatla/SnakesAndLadders.git
+2.   ```bash
+  //git clone https://github.com/ayushgatla/SnakesAndLadders.git//
    ```
 

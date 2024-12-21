@@ -48,10 +48,10 @@ A C-based implementation of the classic board game Snakes and Ladders, complete 
 
 ## 👥 Contributors
 
-- Ayush Gatla (124CS0038)
-- T Ram Sai (124CS0037)
-- Pankaj Maulekhi (124AD0021)
-- Abhilash Kumar (524ME0007)
+- Ayush Gatla
+- T Ram Sai 
+- Pankaj Maulekhi 
+- Abhilash Kumar 
 
 ## 📸 Screenshots
 

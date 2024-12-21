@@ -65,7 +65,6 @@ _(Consider adding images or GIFs of gameplay here.)_
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/snakes-and-ladders.git<<<<<<< Tabnine <<<<<<<
-   Snakes and Ladders Game<br>//-
+  git clone https://github.com/ayushgatla/SnakesAndLadders.git
    ```
 

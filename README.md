@@ -61,10 +61,9 @@ A C-based implementation of the classic board game Snakes and Ladders, complete 
 
 _(Consider adding images or GIFs of gameplay here.)_
 
-## 🚀 How to Run
+2. ## 🚀 How to Run
 
 1. Clone this repository:
-2.   ```bash
-  //git clone https://github.com/ayushgatla/SnakesAndLadders.git//
-   ```
+   ```bash
+   git clone https://github.com/ayushgatla/SnakesAndLadders.git
 
